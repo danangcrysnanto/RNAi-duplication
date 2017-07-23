@@ -58,3 +58,27 @@ java -jar GenomeAnalysisTK.jar -T FastaAlternateReferenceMaker -R dpse-all-chrom
 rm temp*
 
 done <urllist
+
+
+###Converting multiple line fasta into single line sequence fasta 
+
+for file in SRR*fas
+do
+name=`echo $file|cut -d'_' -f2,3`
+cat $file|fasta_formatter > SRR_tidy_${name}
+done
+
+
+#####Getting fasta with strain identifier Dpse####### 
+###I havel already know that there is 12 genes
+for i in $(seq 12)
+do
+echo $i
+for fasta in  SRR_tidy*
+do
+strain=`echo "$fasta"|cut -d'_' -f3| sed "s/.fas//g"`
+echo ">Dpse_"$strain >> Dpse_gene_${i}.fas
+grep -A 1 ">${i}\b" $fasta | tail -n 1 >> Dpse_gene_${i}.fas
+done
+done   
+
