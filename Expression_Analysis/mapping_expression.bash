@@ -14,12 +14,12 @@ do
    echo $url
    echo $id2
    echo $refbow
-   #echo 'Result from:' $id2 >> dpsemale.tsv
-   #echo 'SSR id:' $name >> dpsemale.tsv
-   #wget $url -O tempmapped.fastq.gz
-   #bowtie2  --very-sensitive  -x dpseref  -q -U  tempmapped.fastq.bz2 -p 10 | samtools view -F 4 -u -bS | samtools sort -@ 6 > $name.bam
-   #samtools index $name.bam
-   #samtools idxstats $name.bam | grep -v '*'  >> dpsemale.tsv
-   #rm temp*
+   echo 'Result from:' $id2 >> dpsemale.tsv
+   echo 'SSR id:' $name >> dpsemale.tsv
+   wget $url -O tempmapped.fastq.gz
+   bowtie2  --very-sensitive  -x dpseref  -q -U  tempmapped.fastq.bz2 -p 10 | samtools view -F 4 -u -bS | samtools sort -@ 6 > $name.bam
+   samtools index $name.bam
+   samtools idxstats $name.bam | grep -v '*'  >> dpsemale.tsv
+   rm temp*
 
 done<urlnig
