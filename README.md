@@ -1,4 +1,4 @@
-# RNAi genes duplication in Drosophila
+# RNAi genes duplication in *Drosophila*
 
 ![Drosophila](http://obbard.bio.ed.ac.uk/photo_gallery/flies/Drosophila_lacicola.JPG) 
 
