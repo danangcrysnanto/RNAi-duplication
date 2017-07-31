@@ -1,3 +1,7 @@
+
+###I used this script to manually look for surrounding sequences from BLAST hits (I specify manually the regions) 
+###The script will reverse complement when matched in reverse strand 
+
 read -p 'Location: ' loc
 read -p 'Start: ' start
 read -p 'Stop: ' stop
