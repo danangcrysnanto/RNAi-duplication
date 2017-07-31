@@ -12,5 +12,5 @@ Finally, I used fasta_formatter from [FastX-Toolkit](http://hannonlab.cshl.edu/f
 * Any linkage informations in heterozygous individual is recovered using [FastPhase](http://scheet.org/software.html). I created R script to parse fasta files into format suitable for FastPhase, running FastPhase and reconvert the output back into Fasta format. The script is available here: [FastPhaseIntercovert.R](https://github.com/danangcrysnanto/RNAi-duplication/blob/master/Population_Genetic/FastaPhaseInterconvert.r). The original script credits to [Dr Darren Obbard](http://obbard.bio.ed.ac.uk/) and I modified the script so that it compatible with current version of FastPhase.
 * To gain information on the effect of weakly deleterious mutations, I created a R script which removes variants with MAF less than 0.15. The scripts run by parsing fasta files into matrix, remove variants with MAF less than 0.15 with major variants and convert back the matrix into Fasta format. The script is available here: [MAFRemover.R](https://github.com/danangcrysnanto/RNAi-duplication/blob/master/Population_Genetic/MAF_remover.R)
 
-![VarCall](http://imgur.com/a/scQGA)
+![VarCall](https://drive.google.com/file/d/0BxJz1KyUHFR5c3AtejB5S0dyM1k/view?usp=sharing)
 
