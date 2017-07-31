@@ -1,6 +1,6 @@
 # RNAi genes duplication
 
-(http://obbard.bio.ed.ac.uk/photo_gallery/flies/Drosophila_lacicola.JPG) 
+![Drosophila](http://obbard.bio.ed.ac.uk/photo_gallery/flies/Drosophila_lacicola.JPG) 
 
 All supporting scripts that I use to analyze genomic data in my Master's Dissertation. 
 The detailed explanation for each script is given below
