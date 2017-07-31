@@ -70,7 +70,7 @@ done
 
 
 #####Getting fasta with strain identifier Dpse####### 
-###I havel already know that there is 12 genes
+###I havel already know that there are 12 genes
 for i in $(seq 12)
 do
 echo $i
