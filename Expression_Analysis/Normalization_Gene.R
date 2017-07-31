@@ -1,5 +1,5 @@
-relex <- dat[,7]/dat[,6]
-dat2 <- cbind(dat,relex)
+##I used this script to process gene expression analysis table by normalizing with dividing gene length and expression of rpL32.
+##In the end, I collate all expression data into one big table 
 
 #Getting only data from Dmir
 dat3 <- dat2[which(dat2[,2]=='Dmir'),]
