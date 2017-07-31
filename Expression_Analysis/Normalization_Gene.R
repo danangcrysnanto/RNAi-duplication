@@ -52,10 +52,6 @@ colnames(nigmaptable) <- c('accession','species','organ','sex','gene','genelengt
 write.table(nigmaptable,sep='\t',file='nigmaptable.tsv')
 getwd()
 
-#check infinite
-is.infinite
-is.na
-
 
 
 
