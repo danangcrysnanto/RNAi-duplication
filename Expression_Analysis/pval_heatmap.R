@@ -39,10 +39,10 @@ write.table(tabpval,file='pvaldup.txt',sep='\t')
 
 
 ###Plot heatmap using geom_tile
-plotval<-ggplot(tabpval, aes(x=gen1,y=gen2,fill=pval)) \
-+geom_tile(color='black') \
-+geom_text(aes(gen1, gen2, label = round(pval,3)), color = "white", size = 4)+theme_minimal() \
-+  scale_fill_distiller(palette = "Spectral", trans = "reverse")
+plotval<-ggplot(tabpval, aes(x=gen1,y=gen2,fill=pval)) +
+geom_tile(color='black') +
+geom_text(aes(gen1, gen2, label = round(pval,3)), color = "white", size = 4)+theme_minimal() +
+scale_fill_distiller(palette = "Spectral", trans = "reverse")
 
 ###View plot
 plotval
