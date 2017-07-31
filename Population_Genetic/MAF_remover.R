@@ -73,7 +73,7 @@ fasfile <- dir(pattern='*fas')
 
 
 ###Looping for each column and adding into rem_matrix
-for (i in 2:length(fasfile)){
+for (i in 1:length(fasfile)){
   ###Information for fasta ID
   fastaID <- FastatoID(fasta=fasfile[i])
   dpseloc <- grep('Dpse',fastaID)
