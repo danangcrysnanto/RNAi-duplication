@@ -1,0 +1,2215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 677.25 420.00"
+   version="1.1"
+   id="svg940"
+   sodipodi:docname="pval_edit.svg"
+   inkscape:version="0.92.1 r15371"
+   inkscape:export-filename="E:\tree-result\tree-result\ppt\revised_age\pval_edit.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <metadata
+     id="metadata944">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview942"
+     showgrid="false"
+     inkscape:zoom="1.43"
+     inkscape:cx="260.20449"
+     inkscape:cy="309.81432"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg940" />
+  <defs
+     id="defs12">
+    <style
+       type="text/css"
+       id="style10"><![CDATA[
+    line, polyline, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+    <clipPath
+       id="cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4-8">
+      <rect
+         x="78.010002"
+         y="5.98"
+         width="532.25"
+         height="368.32999"
+         id="rect16-6" />
+    </clipPath>
+    <clipPath
+       id="cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4-3">
+      <rect
+         x="78.010002"
+         y="5.98"
+         width="532.25"
+         height="368.32999"
+         id="rect16-0" />
+    </clipPath>
+    <clipPath
+       id="cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4-2">
+      <rect
+         x="78.010002"
+         y="5.98"
+         width="532.25"
+         height="368.32999"
+         id="rect16-3" />
+    </clipPath>
+    <clipPath
+       id="cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4-4">
+      <rect
+         x="78.010002"
+         y="5.98"
+         width="532.25"
+         height="368.32999"
+         id="rect16-7" />
+    </clipPath>
+    <clipPath
+       id="cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4-9">
+      <rect
+         x="78.010002"
+         y="5.98"
+         width="532.25"
+         height="368.32999"
+         id="rect16-38" />
+    </clipPath>
+    <clipPath
+       id="cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4-37">
+      <rect
+         x="78.010002"
+         y="5.98"
+         width="532.25"
+         height="368.32999"
+         id="rect16-4" />
+    </clipPath>
+    <clipPath
+       id="cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4-91">
+      <rect
+         x="78.010002"
+         y="5.98"
+         width="532.25"
+         height="368.32999"
+         id="rect16-66" />
+    </clipPath>
+    <clipPath
+       id="cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4-24">
+      <rect
+         x="78.010002"
+         y="5.98"
+         width="532.25"
+         height="368.32999"
+         id="rect16-387" />
+    </clipPath>
+    <clipPath
+       id="cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4-5">
+      <rect
+         x="78.010002"
+         y="5.98"
+         width="532.25"
+         height="368.32999"
+         id="rect16-05" />
+    </clipPath>
+    <clipPath
+       id="cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4-6">
+      <rect
+         x="78.010002"
+         y="5.98"
+         width="532.25"
+         height="368.32999"
+         id="rect16-2" />
+    </clipPath>
+    <clipPath
+       id="cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4-69">
+      <rect
+         x="78.010002"
+         y="5.98"
+         width="532.25"
+         height="368.32999"
+         id="rect16-60" />
+    </clipPath>
+    <clipPath
+       id="cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4-57">
+      <rect
+         x="78.010002"
+         y="5.98"
+         width="532.25"
+         height="368.32999"
+         id="rect16-34" />
+    </clipPath>
+    <clipPath
+       id="cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4-39">
+      <rect
+         x="78.010002"
+         y="5.98"
+         width="532.25"
+         height="368.32999"
+         id="rect16-73" />
+    </clipPath>
+    <clipPath
+       id="cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4-38">
+      <rect
+         x="78.010002"
+         y="5.98"
+         width="532.25"
+         height="368.32999"
+         id="rect16-77" />
+    </clipPath>
+  </defs>
+  <defs
+     id="defs19">
+    <clipPath
+       id="cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4">
+      <rect
+         x="78.01"
+         y="5.98"
+         width="532.25"
+         height="368.33"
+         id="rect16" />
+    </clipPath>
+  </defs>
+  <polyline
+     points="78.01,25.71 610.26,25.71 "
+     style="stroke-width: 0.43; stroke: #E5E5E5; stroke-linecap: butt;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="polyline41" />
+  <polyline
+     points="106.53,374.31 106.53,5.98 "
+     style="stroke-width: 0.43; stroke: #E5E5E5; stroke-linecap: butt;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="polyline43" />
+  <rect
+     x="320.38"
+     y="173.70"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect65" />
+  <rect
+     x="320.38"
+     y="107.93"
+     width="47.52"
+     height="32.89"
+     style="stroke-width:0.21;stroke-linecap:butt;fill:#e9afaf"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect67" />
+  <rect
+     x="320.38"
+     y="42.15"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53F4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect69" />
+  <rect
+     x="320.38"
+     y="140.81"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect71" />
+  <rect
+     x="320.38"
+     y="75.04"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect73" />
+  <rect
+     x="320.38"
+     y="9.27"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect75" />
+  <rect
+     x="415.42"
+     y="107.93"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect89" />
+  <rect
+     x="415.42"
+     y="42.15"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect91" />
+  <rect
+     x="415.42"
+     y="75.04"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect95" />
+  <rect
+     x="415.42"
+     y="9.27"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect97" />
+  <rect
+     x="415.42001"
+     y="338.13"
+     width="47.52"
+     height="32.889999"
+     style="fill:#dc4e51;stroke:#000000;stroke-width:0.20999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect99"
+     transform="translate(-332.65002,0.01000977)" />
+  <rect
+     x="510.46"
+     y="42.15"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect113" />
+  <rect
+     x="510.46"
+     y="9.27"
+     width="47.52"
+     height="32.89"
+     style="stroke-width:0.20999999;stroke-linecap:butt;fill:#3288bd;font-variant-east_asian:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect119" />
+  <rect
+     x="367.90"
+     y="107.93"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect133" />
+  <rect
+     x="367.90"
+     y="42.15"
+     width="47.52"
+     height="32.89"
+     style="stroke-width:0.20999999;stroke-linecap:butt;fill:#3288bd;font-variant-east_asian:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect135" />
+  <rect
+     x="367.90"
+     y="140.81"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect137" />
+  <rect
+     x="367.90"
+     y="75.04"
+     width="47.52"
+     height="32.89"
+     style="stroke-width:0.20999999;stroke-linecap:butt;fill:#3288bd;font-variant-east_asian:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect139" />
+  <rect
+     x="367.90"
+     y="9.27"
+     width="47.52"
+     height="32.89"
+     style="stroke-width:0.20999999;stroke-linecap:butt;fill:#3288bd;font-variant-east_asian:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect141" />
+  <rect
+     x="462.94"
+     y="42.15"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect157" />
+  <rect
+     x="462.94"
+     y="75.04"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect161" />
+  <rect
+     x="462.94"
+     y="9.27"
+     width="47.52"
+     height="32.89"
+     style="stroke-width:0.20999999;stroke-linecap:butt;fill:#3288bd;font-variant-east_asian:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect163" />
+  <rect
+     x="557.99"
+     y="9.27"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect185" />
+  <path
+     style="fill:#3288bd;stroke:#000000;stroke-width:0.20999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     d="M 82.769997,173.7 H 130.29 v 32.89 H 82.769997 Z"
+     id="rect197" />
+  <rect
+     x="82.77"
+     y="107.93"
+     width="47.52"
+     height="32.89"
+     style="stroke-width:0.20999999;stroke-linecap:butt;fill:#e9afaf;font-variant-east_asian:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect199" />
+  <rect
+     x="82.77"
+     y="42.15"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D74350;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect201" />
+  <rect
+     x="82.77"
+     y="140.81"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect203" />
+  <rect
+     x="82.77"
+     y="75.04"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect205" />
+  <rect
+     x="82.77"
+     y="9.27"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect207" />
+  <rect
+     x="82.77"
+     y="305.25"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect211" />
+  <rect
+     x="82.77"
+     y="272.36"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D6404F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect213" />
+  <rect
+     x="82.77"
+     y="239.47"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect215" />
+  <rect
+     x="82.77"
+     y="206.59"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect217" />
+  <rect
+     x="130.29"
+     y="173.70"
+     width="47.52"
+     height="32.89"
+     style="stroke-width:0.20999999;stroke-linecap:butt;fill:#e9afaf;font-variant-east_asian:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect219" />
+  <rect
+     x="130.29"
+     y="107.93"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect221" />
+  <rect
+     x="130.29"
+     y="42.15"
+     width="47.52"
+     height="32.89"
+     style="stroke-width:0.20999999;stroke-linecap:butt;fill:#3288bd;font-variant-east_asian:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect223" />
+  <rect
+     x="130.29"
+     y="140.81"
+     width="47.52"
+     height="32.89"
+     style="stroke-width:0.20999999;stroke-linecap:butt;fill:#e9afaf;font-variant-east_asian:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect225" />
+  <rect
+     x="130.29"
+     y="75.04"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect227" />
+  <rect
+     x="130.29"
+     y="9.27"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #DA4950;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect229" />
+  <rect
+     x="130.29"
+     y="305.25"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect233" />
+  <rect
+     x="130.29"
+     y="272.36"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect235" />
+  <rect
+     x="130.29"
+     y="239.47"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect237" />
+  <rect
+     x="130.29"
+     y="206.59"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect239" />
+  <rect
+     x="177.81"
+     y="173.70"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53F4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect241" />
+  <rect
+     x="177.81"
+     y="107.93"
+     width="47.52"
+     height="32.89"
+     style="stroke-width:0.20999999;stroke-linecap:butt;fill:#3288bd;font-variant-east_asian:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect243" />
+  <rect
+     x="177.81"
+     y="42.15"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect245" />
+  <rect
+     x="177.81"
+     y="140.81"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect247" />
+  <rect
+     x="177.81"
+     y="75.04"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect249" />
+  <rect
+     x="177.81"
+     y="9.27"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect251" />
+  <rect
+     x="177.81"
+     y="272.36"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect257" />
+  <rect
+     x="177.81"
+     y="239.47"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect259" />
+  <rect
+     x="177.81"
+     y="206.59"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect261" />
+  <rect
+     x="225.33"
+     y="173.70"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect263" />
+  <rect
+     x="225.33"
+     y="107.93"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect265" />
+  <rect
+     x="225.33"
+     y="42.15"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect267" />
+  <rect
+     x="225.33"
+     y="140.81"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect269" />
+  <rect
+     x="225.33"
+     y="75.04"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect271" />
+  <rect
+     x="225.33"
+     y="9.27"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect273" />
+  <rect
+     x="225.33"
+     y="239.47"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect281" />
+  <rect
+     x="225.33"
+     y="206.59"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect283" />
+  <rect
+     x="272.85"
+     y="173.70"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect285" />
+  <rect
+     x="272.85"
+     y="107.93"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect287" />
+  <rect
+     x="272.85"
+     y="42.15"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect289" />
+  <rect
+     x="272.85"
+     y="140.81"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D63F4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect291" />
+  <rect
+     x="272.85"
+     y="75.04"
+     width="47.52"
+     height="32.89"
+     style="stroke-width:0.20999999;stroke-linecap:butt;fill:#e9afaf;font-variant-east_asian:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect293" />
+  <rect
+     x="272.85"
+     y="9.27"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D63F4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect295" />
+  <rect
+     x="272.85"
+     y="206.59"
+     width="47.52"
+     height="32.89"
+     style="stroke-width: 0.21; stroke-linecap: butt; fill: #D53E4F;"
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="rect305" />
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g309">
+    <text
+       x="341.07999"
+       y="194.08"
+       style="font-size:11.38000011px;font-family:Arial;fill:#ffffff"
+       textLength="6.1199999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text307">1</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g313">
+    <text
+       x="330.37"
+       y="128.31"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text311">0.023</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g317">
+    <text
+       x="330.37"
+       y="62.53"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text315">0.002</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g321">
+    <text
+       x="341.08"
+       y="161.19"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text319">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g325">
+    <text
+       x="341.08"
+       y="95.42"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text323">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g329">
+    <text
+       x="341.08"
+       y="29.65"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text327">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g333">
+    <text
+       x="330.37"
+       y="358.51"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text331">0.862</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g337">
+    <text
+       x="330.37"
+       y="325.63"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text335">0.074</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g341">
+    <text
+       x="330.37"
+       y="292.74"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text339">0.002</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g349">
+    <text
+       x="341.08"
+       y="226.97"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text347">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g357">
+    <text
+       x="436.12"
+       y="128.31"
+       style="font-size:11.38000011px;font-family:Arial;fill:#ffffff"
+       textLength="6.1199999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text355">1</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g361">
+    <text
+       x="436.12"
+       y="62.53"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text359">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g365">
+    <text
+       x="436.12"
+       y="161.19"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text363">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g369">
+    <text
+       x="436.12"
+       y="95.42"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text367">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g373">
+    <text
+       x="436.12"
+       y="29.65"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text371">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g377">
+    <text
+       x="425.42"
+       y="358.51"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text375">0.031</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g381">
+    <text
+       x="436.12"
+       y="325.63"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text379">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g385">
+    <text
+       x="425.42"
+       y="292.74"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text383">0.514</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g393">
+    <text
+       x="436.12"
+       y="226.97"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text391">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g397">
+    <text
+       x="520.46"
+       y="194.08"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text395">0.002</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g401">
+    <text
+       x="531.17"
+       y="128.31"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text399">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g405">
+    <text
+       x="531.16998"
+       y="62.529999"
+       style="font-size:11.38000011px;font-family:Arial;fill:#ffffff"
+       textLength="6.1199999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text403">1</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g413">
+    <text
+       x="531.17"
+       y="95.42"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text411">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g417">
+    <text
+       x="520.46"
+       y="29.65"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text415">0.269</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g421">
+    <text
+       x="523.52"
+       y="358.51"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="21.41px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text419">0.01</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g429">
+    <text
+       x="531.17"
+       y="292.74"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text427">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g433">
+    <text
+       x="531.17"
+       y="259.85"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text431">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g437">
+    <text
+       x="531.17"
+       y="226.97"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text435">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g441">
+    <text
+       x="388.60"
+       y="194.08"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text439">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g445">
+    <text
+       x="388.60"
+       y="128.31"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text443">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g449">
+    <text
+       x="377.89"
+       y="62.53"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text447">0.204</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g453">
+    <text
+       x="388.60001"
+       y="161.19"
+       style="font-size:11.38000011px;font-family:Arial;fill:#ffffff"
+       textLength="6.1199999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text451">1</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g457">
+    <text
+       x="377.89"
+       y="95.42"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text455">0.218</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g461">
+    <text
+       x="377.89"
+       y="29.65"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text459">0.817</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g473">
+    <text
+       x="388.60"
+       y="292.74"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text471">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g477">
+    <text
+       x="388.60"
+       y="259.85"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text475">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g493">
+    <text
+       x="483.64"
+       y="62.53"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text491">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g501">
+    <text
+       x="483.64001"
+       y="95.419998"
+       style="font-size:11.38000011px;font-family:Arial;fill:#ffffff"
+       textLength="6.1199999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text499">1</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g505">
+    <text
+       x="472.94"
+       y="29.65"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text503">0.297</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g509">
+    <text
+       x="483.64"
+       y="358.51"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text507">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g517">
+    <text
+       x="483.64"
+       y="292.74"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text515">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g525">
+    <text
+       x="472.94"
+       y="226.97"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text523">0.018</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g529">
+    <text
+       x="578.69"
+       y="194.08"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text527">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g541">
+    <text
+       x="567.98"
+       y="161.19"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text539">0.817</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g545">
+    <text
+       x="567.98"
+       y="95.42"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text543">0.297</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g549">
+    <text
+       x="578.69"
+       y="29.65"
+       style="font-size:11.38000011px;font-family:Arial;fill:#ffffff"
+       textLength="6.1199999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text547">1</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g553">
+    <text
+       x="578.69"
+       y="358.51"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text551">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g561">
+    <text
+       x="578.69"
+       y="292.74"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text559">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g565">
+    <text
+       x="578.69"
+       y="259.85"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text563">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g569">
+    <text
+       x="567.98"
+       y="226.97"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text567">0.003</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g573">
+    <text
+       x="92.76"
+       y="194.08"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text571">0.862</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g577">
+    <text
+       x="92.76"
+       y="128.31"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text575">0.031</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g581">
+    <text
+       x="95.82"
+       y="62.53"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="21.41px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text579">0.01</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g585">
+    <text
+       x="92.76"
+       y="161.19"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text583">0.001</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g589">
+    <text
+       x="103.47"
+       y="95.42"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text587">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g593">
+    <text
+       x="103.47"
+       y="29.65"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text591">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g597">
+    <text
+       x="103.47"
+       y="358.51001"
+       style="font-size:11.38000011px;font-family:Arial;fill:#ffffff"
+       textLength="6.1199999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text595">1</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g601">
+    <text
+       x="103.47"
+       y="325.63"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text599">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g605">
+    <text
+       x="92.76"
+       y="292.74"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text603">0.003</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g609">
+    <text
+       x="103.47"
+       y="259.85"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text607">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g613">
+    <text
+       x="103.47"
+       y="226.97"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text611">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g617">
+    <text
+       x="140.28"
+       y="194.08"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text615">0.074</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g621">
+    <text
+       x="150.99"
+       y="128.31"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text619">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g625">
+    <text
+       x="140.28"
+       y="62.53"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text623">0.237</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g629">
+    <text
+       x="140.28"
+       y="161.19"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text627">0.024</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g633">
+    <text
+       x="150.99"
+       y="95.42"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text631">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g637">
+    <text
+       x="143.34"
+       y="29.65"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="21.41px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text635">0.02</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g641">
+    <text
+       x="150.99"
+       y="358.51"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text639">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g645">
+    <text
+       x="150.99001"
+       y="325.63"
+       style="font-size:11.38000011px;font-family:Arial;fill:#ffffff"
+       textLength="6.1199999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text643">1</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g649">
+    <text
+       x="150.99"
+       y="292.74"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text647">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g653">
+    <text
+       x="150.99"
+       y="259.85"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text651">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g657">
+    <text
+       x="150.99"
+       y="226.97"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text655">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g661">
+    <text
+       x="187.81"
+       y="194.08"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text659">0.002</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g665">
+    <text
+       x="187.81"
+       y="128.31"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text663">0.514</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g669">
+    <text
+       x="198.51"
+       y="62.53"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text667">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g673">
+    <text
+       x="198.51"
+       y="161.19"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text671">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g677">
+    <text
+       x="198.51"
+       y="95.42"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text675">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g681">
+    <text
+       x="198.51"
+       y="29.65"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text679">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g685">
+    <text
+       x="187.81"
+       y="358.51"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text683">0.003</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g689">
+    <text
+       x="198.51"
+       y="325.63"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text687">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g693">
+    <text
+       x="198.50999"
+       y="292.73999"
+       style="font-size:11.38000011px;font-family:Arial;fill:#ffffff"
+       textLength="6.1199999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text691">1</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g697">
+    <text
+       x="198.51"
+       y="259.85"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text695">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g701">
+    <text
+       x="198.51"
+       y="226.97"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text699">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g705">
+    <text
+       x="246.03"
+       y="194.08"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text703">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g709">
+    <text
+       x="246.03"
+       y="128.31"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text707">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g713">
+    <text
+       x="246.03"
+       y="62.53"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text711">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g717">
+    <text
+       x="246.03"
+       y="161.19"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text715">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g721">
+    <text
+       x="246.03"
+       y="95.42"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text719">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g725">
+    <text
+       x="246.03"
+       y="29.65"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text723">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g729">
+    <text
+       x="246.03"
+       y="358.51"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text727">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g733">
+    <text
+       x="246.03"
+       y="325.63"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text731">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g741">
+    <text
+       x="246.03"
+       y="259.85001"
+       style="font-size:11.38000011px;font-family:Arial;fill:#ffffff"
+       textLength="6.1199999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text739">1</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g745">
+    <text
+       x="246.03"
+       y="226.97"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text743">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g749">
+    <text
+       x="293.56"
+       y="194.08"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text747">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g753">
+    <text
+       x="293.56"
+       y="128.31"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text751">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g757">
+    <text
+       x="293.56"
+       y="62.53"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text755">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g761">
+    <text
+       x="282.85"
+       y="161.19"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text759">0.003</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g765">
+    <text
+       x="282.85"
+       y="95.42"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text763">0.018</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g769">
+    <text
+       x="282.85"
+       y="29.65"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="27.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text767">0.003</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g773">
+    <text
+       x="293.56"
+       y="358.51"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text771">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g777">
+    <text
+       x="293.56"
+       y="325.63"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text775">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g785">
+    <text
+       x="293.56"
+       y="259.85"
+       style="font-size: 11.38px; fill: #FFFFFF; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text783">0</text>
+  </g>
+  <g
+     clip-path="url(#cpNzguMDEzfDYxMC4yNTl8Mzc0LjMwOHw1Ljk3NzU4)"
+     id="g789">
+    <text
+       x="293.56"
+       y="226.97"
+       style="font-size:11.38000011px;font-family:Arial;fill:#ffffff"
+       textLength="6.1199999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text787">1</text>
+  </g>
+  <defs
+     id="defs794">
+    <clipPath
+       id="cpMHw2NzcuMjV8NDIwfDA=">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="677.25"
+         height="420.00"
+         id="rect791" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="g798"
+     transform="matrix(2.1709666,0,0,2.1709666,-50.81357,-414.75441)">
+    <text
+       x="32.310001"
+       y="358.14999"
+       style="font-size:9.60000038px;font-family:Arial"
+       textLength="28.92"
+       lengthAdjust="spacingAndGlyphs"
+       id="text796">Agoab</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="g802"
+     transform="matrix(1.707122,0,0,1.707122,-24.453389,-225.14044)">
+    <text
+       x="21.74"
+       y="325.26999"
+       style="font-size:9.60000038px;font-family:Arial"
+       textLength="39.48"
+       lengthAdjust="spacingAndGlyphs"
+       id="text800">Agoabcd</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="g806"
+     transform="matrix(1.4718529,0,0,1.4718529,-12.705696,-137.51504)">
+    <text
+       x="32.869999"
+       y="292.38"
+       style="font-size:9.60000038px;font-family:Arial"
+       textLength="28.35"
+       lengthAdjust="spacingAndGlyphs"
+       id="text804"
+       transform="matrix(1.374015,0,0,1.374015,-20.365369,-110.58525)">Agocd</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="g810"
+     transform="matrix(1.9327206,0,0,1.9327206,-38.692569,-243.21678)">
+    <text
+       x="37.869999"
+       y="259.48999"
+       style="font-size:9.60000038px;font-family:Arial"
+       textLength="23.35"
+       lengthAdjust="spacingAndGlyphs"
+       id="text808">Agoe</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="g814"
+     transform="matrix(2.0434078,0,0,2.0434078,-47.99366,-237.15605)">
+    <text
+       x="40.650002"
+       y="226.61"
+       style="font-size:9.60000038px;font-family:Arial"
+       textLength="20.57"
+       lengthAdjust="spacingAndGlyphs"
+       id="text812">Agof</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="g818"
+     transform="matrix(1.8141017,0,0,1.8141017,-33.097623,-157.70779)">
+    <text
+       x="40.669998"
+       y="193.72"
+       style="font-size:9.60000038px;font-family:Arial"
+       textLength="20.549999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text816">Armi</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="g822"
+     transform="matrix(2.0176272,0,0,2.0176272,-47.019765,-163.66498)">
+    <text
+       x="46.220001"
+       y="160.83"
+       style="font-size:9.60000038px;font-family:Arial"
+       textLength="15"
+       lengthAdjust="spacingAndGlyphs"
+       id="text820">Arx</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="g826"
+     transform="matrix(1.8856578,0,0,1.8856578,-39.037746,-112.72441)">
+    <text
+       x="42.880001"
+       y="127.95"
+       style="font-size:9.60000038px;font-family:Arial"
+       textLength="18.34"
+       lengthAdjust="spacingAndGlyphs"
+       id="text824">Cuff</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="g830"
+     transform="matrix(1.8299584,0,0,1.8299584,-33.440011,-78.989217)">
+    <text
+       x="39.549999"
+       y="95.059998"
+       style="font-size:9.60000038px;font-family:Arial"
+       textLength="21.67"
+       lengthAdjust="spacingAndGlyphs"
+       id="text828">Mael</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="g834"
+     transform="matrix(1.718789,0,0,1.718789,-26.584789,-46.139284)">
+    <text
+       x="36.77"
+       y="62.169998"
+       style="font-size:9.60000038px;font-family:Arial"
+       textLength="24.450001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text832">Tejas</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="g838"
+     transform="matrix(1.0000174,0,0,1.0000174,-7.4881837e-4,-5.129233e-4)">
+    <text
+       x="42.880001"
+       y="29.290001"
+       style="font-size:9.60000038px;font-family:Arial"
+       textLength="18.34"
+       lengthAdjust="spacingAndGlyphs"
+       id="text836"
+       transform="matrix(1.8009887,0,0,1.8009887,-34.382285,-23.551071)">Vret</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="g842"
+     transform="matrix(1.8650635,0,0,1.8650635,-91.113345,-354.53487)">
+    <text
+       x="92.07"
+       y="398.26001"
+       style="font-size:9.60000038px;font-family:Arial"
+       textLength="28.92"
+       lengthAdjust="spacingAndGlyphs"
+       id="text840">Agoab</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="g846"
+     transform="matrix(1.550495,0,0,1.550495,-74.669635,-265.54002)">
+    <text
+       x="134.31"
+       y="398.26001"
+       style="font-size:9.60000038px;font-family:Arial"
+       textLength="39.48"
+       lengthAdjust="spacingAndGlyphs"
+       id="text844">Agoabcd</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="g850"
+     transform="matrix(1.6291371,0,0,1.6291371,-124.01289,-331.22945)">
+    <text
+       x="187.39"
+       y="398.26001"
+       style="font-size:9.60000038px;font-family:Arial"
+       textLength="28.35"
+       lengthAdjust="spacingAndGlyphs"
+       id="text848">Agocd</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="g854"
+     transform="matrix(1.5504949,0,0,1.5504949,-135.53865,-331.53652)">
+    <text
+       x="237.41"
+       y="398.26001"
+       style="font-size:9.60000038px;font-family:Arial"
+       textLength="23.35"
+       lengthAdjust="spacingAndGlyphs"
+       id="text852">Agoe</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="g858"
+     transform="matrix(1.7437462,0,0,1.7437462,-219.15685,-436.9347)">
+    <text
+       x="286.32999"
+       y="398.26001"
+       style="font-size:9.60000038px;font-family:Arial"
+       textLength="20.57"
+       lengthAdjust="spacingAndGlyphs"
+       id="text856">Agof</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="g862"
+     transform="matrix(1.8141017,0,0,1.8141017,-280.17571,-499.55081)">
+    <text
+       x="333.85999"
+       y="398.26001"
+       style="font-size:9.60000038px;font-family:Arial"
+       textLength="20.549999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text860">Armi</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="g866"
+     transform="matrix(1.6105763,0,0,1.6105763,-237.8395,-452.37866)">
+    <text
+       x="384.16"
+       y="398.26001"
+       style="font-size:9.60000038px;font-family:Arial"
+       textLength="15"
+       lengthAdjust="spacingAndGlyphs"
+       id="text864">Arx</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="g870"
+     transform="matrix(1.5904386,0,0,1.5904386,-262.29317,-475.059)">
+    <text
+       x="430.01001"
+       y="398.26001"
+       style="font-size:9.60000038px;font-family:Arial"
+       textLength="18.34"
+       lengthAdjust="spacingAndGlyphs"
+       id="text868">Cuff</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="g874"
+     transform="matrix(1.7008651,0,0,1.7008651,-341.68405,-555.35557)">
+    <text
+       x="475.85999"
+       y="398.26001"
+       style="font-size:9.60000038px;font-family:Arial"
+       textLength="21.67"
+       lengthAdjust="spacingAndGlyphs"
+       id="text872">Mael</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="g878"
+     transform="matrix(1.7864215,0,0,1.7864215,-419.22043,-621.11955)">
+    <text
+       x="522"
+       y="398.26001"
+       style="font-size:9.60000038px;font-family:Arial"
+       textLength="24.450001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text876">Tejas</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="g882"
+     transform="matrix(1.8123406,0,0,1.8123406,-474.8324,-664.27944)">
+    <text
+       x="572.58002"
+       y="398.26001"
+       style="font-size:9.60000038px;font-family:Arial"
+       textLength="18.34"
+       lengthAdjust="spacingAndGlyphs"
+       id="text880">Vret</text>
+  </g>
+  <line
+     x1="623.02"
+     y1="155.56"
+     x2="626.47"
+     y2="155.56"
+     style="stroke-width: 0.38; stroke: #FFFFFF; stroke-linecap: butt;"
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="line920" />
+  <line
+     x1="623.02"
+     y1="174.87"
+     x2="626.47"
+     y2="174.87"
+     style="stroke-width: 0.38; stroke: #FFFFFF; stroke-linecap: butt;"
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="line922" />
+  <line
+     x1="623.02"
+     y1="194.19"
+     x2="626.47"
+     y2="194.19"
+     style="stroke-width: 0.38; stroke: #FFFFFF; stroke-linecap: butt;"
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="line924" />
+  <line
+     x1="623.02"
+     y1="213.50"
+     x2="626.47"
+     y2="213.50"
+     style="stroke-width: 0.38; stroke: #FFFFFF; stroke-linecap: butt;"
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="line926" />
+  <line
+     x1="623.02"
+     y1="232.81"
+     x2="626.47"
+     y2="232.81"
+     style="stroke-width: 0.38; stroke: #FFFFFF; stroke-linecap: butt;"
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="line928" />
+  <line
+     x1="636.84"
+     y1="213.50"
+     x2="640.30"
+     y2="213.50"
+     style="stroke-width: 0.38; stroke: #FFFFFF; stroke-linecap: butt;"
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="line936" />
+  <line
+     x1="636.84"
+     y1="232.81"
+     x2="640.30"
+     y2="232.81"
+     style="stroke-width: 0.38; stroke: #FFFFFF; stroke-linecap: butt;"
+     clip-path="url(#cpMHw2NzcuMjV8NDIwfDA=)"
+     id="line938" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:17.41333389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="53.846153"
+     y="294.12589"
+     id="text6130"><tspan
+       sodipodi:role="line"
+       id="tspan6128"
+       x="53.846153"
+       y="310.0126"></tspan></text>
+</svg>
