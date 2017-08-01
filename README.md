@@ -14,3 +14,7 @@ Finally, I used fasta_formatter from [FastX-Toolkit](http://hannonlab.cshl.edu/f
 
 ![VarCall](https://github.com/danangcrysnanto/RNAi-duplication/blob/master/Population_Genetic/t29.png)
 
+## Expression Analysis
+* I collated transcriptome datasets from [ENA](http://www.ebi.ac.uk/ena) and [DDBJ](ddbj.nig.ac.jp) and used [custom parser](https://github.com/danangcrysnanto/RNAi-duplication/blob/master/Expression_Analysis/ENA_DDBJ_parser.sh) to process the text files into expression script
+* The [expression script](https://github.com/danangcrysnanto/RNAi-duplication/blob/master/Expression_Analysis/mapping_expression.sh) runs by mapping RNA-seq reads with reference transcriptome and use [samtools v1.4](http://samtools.sourceforge.net/) to retain and count only the mapped reads for each genes (by using idxstats samtools)
+* The rest of the scripts are used for normalization, plotting and statistical analysis (mcmcglmm)
